@@ -1,7 +1,16 @@
 
 
-# Livro de Receitas 
+### Livro de receitas :woman_cook:
 
-Olá! bem vindo ao meu livro de receiras
+Olá! Bem vindo ao meu livro de receitas :wave:
 
-	.Strogonoff de Frango
+**.** Strogonoff de frango :poultry_leg:
+
+**.** Pavê de chocolate :chocolate_bar:
+
+
+
+###  
+
+
+
